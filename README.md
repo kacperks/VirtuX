@@ -1,7 +1,7 @@
 # VirtuX
 Virtual Machine written in C
 
-Currently Not ready
+Currently Not finished
 
 To bulid you need :
 
