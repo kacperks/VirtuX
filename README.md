@@ -1,5 +1,5 @@
 # VirtuX
-Virtual Machine written in C++
+Virtual Machine prototype
 
 Not finished
 
